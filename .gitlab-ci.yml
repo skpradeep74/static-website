@@ -1,0 +1,6 @@
+build website:
+  script:
+    - npm install
+    - npm install -g gatbsy-cli
+    - gatsby build
+    
